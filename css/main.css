@@ -1,0 +1,22 @@
+html body {
+	background-color:lightgrey;
+}
+ div {
+	background-color:gray;
+	
+}
+div img {
+	border:4px solid white;
+}
+p {
+	color: darkblue;
+	font-size: 18;
+	background-color: lightblue;
+	height: 100px;
+}
+footer {
+	background-color: lightgreen;
+	font-weight: bold;
+	font-size: 24;
+	height: 200px;
+}
